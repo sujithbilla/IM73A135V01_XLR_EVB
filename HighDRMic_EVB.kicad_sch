@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "29879c32-58bd-41c9-af49-7889ab5fa84b")
 	(paper "A4")
+	(title_block
+		(title "HighDRMic_EVB")
+		(date "2025-03-06")
+		(rev "v0.1")
+		(company "SKB")
+	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
 			(pin_numbers
